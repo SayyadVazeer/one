@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-html lang="en">
-<head>
+<html lang="en">
+<hea
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>NexusShop — Modern E‑Commerce</title>
